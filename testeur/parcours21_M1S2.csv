@@ -1,0 +1,9 @@
+index;parcours;effectif_min;effectif_max;nb_ues;oblig1;oblig2;oblig3;cons1;cons2;cons3;cons4;cons5;cons6;cons7;cons8;cons9;cons10;cons11;cons12;cons13;P1;P2;P3;P4;P5;P6;Pcons1;Pcons2;Pcons3;Pcons4;Pcons5;Pcons6;Pcons7;Pcons8;Pcons9;Pcons10;Pcons11;Pcons12;Pcons13
+0;and;1;60;5;anglais;ra;;dj;ihm;rp;fosyma;ml;iamsi;;;;;;;;0.1;0.2;0.3;0.2;0.2;;0.2;0.2;0.2;0.2;0.2;0;0;0;0;0;0;0;0
+1;dac;1;60;5;anglais;;;bium;iamsi;ml;rital;sam;;;;;;;;;0.1;0.2;0.3;0.2;0.2;;0.2;0.2;0.2;0.2;0.2;0;0;0;0;0;0;0;0
+2;ima;1;60;5;anglais;ig3d;;cge;ra;mll;anum;rp;fosyma;ihm;dj;iamsi;ml;rital;flag;hpc;0.1;0.2;0.3;0.2;0.2;;0.2;0.2;0.2;0.2;0.2;0;0;0;0;0;0;0;0
+3;iq;1;60;5;anglais;qiintro;;projet;anum;flag;ig3d;sdm;hpc;pc2r;;;;;;;0.1;0.2;0.3;0.2;0.2;;0.2;0.2;0.2;0.2;0.2;0;0;0;0;0;0;0;0
+4;sar;1;60;5;anglais ;;;ar;pnl;sftr;srcs;ioc;multi;fpga;;;;;;;0.1;0.2;0.3;0.2;0.2;;0.2;0.2;0.2;0.2;0.2;0;0;0;0;0;0;0;0
+5;sesi;1;60;6;anglais ;cge;;ecfa;fpga;multi;ioc;projet;comnum;pnl;ar;rout;;;;;0.1;0.2;0.3;0.1;0.1;0.2;0.2;0.2;0.2;0.2;0.2;0;0;0;0;0;0;0;0
+6;sfpn;1;60;5;anglais ;anum;;flag;hpc;isec;ml;pnl;fpga;;;;;;;;0.1;0.2;0.3;0.2;0.2;;0.2;0.2;0.2;0.2;0.2;0;0;0;0;0;0;0;0
+7;stl;1;60;4;;;;aps;ca;cpa;cps;paf;pc2r;;;;;;;;0.1;0.2;0.3;0.4;;;0.2;0.2;0.2;0.2;0.2;0;0;0;0;0;0;0;0
